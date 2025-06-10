@@ -8,6 +8,7 @@
 
 <h3>Everybody Codes</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheshulko&repo=Echoes-of-Enigmatus-hs)](https://github.com/Cheshulko/Echoes-of-Enigmatus-hs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cheshulko&repo=The-Kingdom-of-Algorithmia-2024-hs)](https://github.com/Cheshulko/The-Kingdom-of-Algorithmia-2024-hs)
 
 
