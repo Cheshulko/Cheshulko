@@ -22,7 +22,8 @@
 
 | Language | Repository |
 |:---:|:---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height=18px /> | [The Song of Ducks and Dragons 2025 ](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
+| <img src="https://odin-lang.org/favicon.svg" height=18px /> | [Melody Made of Code](https://github.com/Cheshulko/Melody-Made-of-Code-odin)
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height=18px /> | [The Song of Ducks and Dragons 2025](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" height=18px /> | [The Entertainment Hub](https://github.com/Cheshulko/The-Entertainment-Hub-ml) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height=18px /> | [Echoes of Enigmatus](https://github.com/Cheshulko/Echoes-of-Enigmatus-hs) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height=18px/> | [The Kingdom of Algorithmia 2024](https://github.com/Cheshulko/The-Kingdom-of-Algorithmia-2024-hs) |
