@@ -27,6 +27,9 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" height=18px /> | [The Entertainment Hub](https://github.com/Cheshulko/The-Entertainment-Hub-ml) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height=18px /> | [Echoes of Enigmatus](https://github.com/Cheshulko/Echoes-of-Enigmatus-hs) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height=18px/> | [The Kingdom of Algorithmia 2024](https://github.com/Cheshulko/The-Kingdom-of-Algorithmia-2024-hs) |
+| <img src="https://everybody.codes/favicon.ico" height=18px/> | [GridOS](https://github.com/Cheshulko/GridOS) |
+
+
 
 <!--  Readme Cards -->
 
