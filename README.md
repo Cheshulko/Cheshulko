@@ -16,6 +16,7 @@
 * [Shellust](https://github.com/Cheshulko/Shellust-rs) — A small interactive shell written from scratch in Rust.
 * [Lox interpreter](https://github.com/Cheshulko/Lox-interpreter-rs) — Lox is a dynamically-typed, interpreted programming language created specifically for teaching purposes in the book [Crafting Interpreters](https://craftinginterpreters.com) by [Robert Nystrom](https://journal.stuffwithstuff.com).
 * [Nand to Tetris](https://github.com/Cheshulko/Nand2Tetris-rs) — [Nand2Tetris](https://www.nand2tetris.org/) cource — Building a modern computer system from first principles, starting from a single NAND gate and ending with a functional compiler and OS.
+* [Image Quantizer](https://github.com/Cheshulko/Quantize-image-rs) — A Rust implementation of image color quantization using the [K-means clustering](https://en.wikipedia.org/wiki/K-means_clustering) algorithm.
 * [Rust-Genetic](https://github.com/Cheshulko/Rust-genetic-rs) — A prototype genetic algorithm for the [Traveling Salesman Problem (TSP)](https://en.wikipedia.org/wiki/Travelling_salesman_problem) implemented in Rust.
 * [Yet another Web Crawler](https://github.com/Cheshulko/Web-crawler-cpp) — Multithreaded web crawler implemented in C++ designed for  page traversal, link discovery, and data extraction.
 
