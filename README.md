@@ -1,16 +1,16 @@
 # 👋
 ## Everybody Codes
-* <sub><img src="https://odin-lang.org/favicon.svg" height="20"></sub> [Melody Made of Code](https://github.com/Cheshulko/Melody-Made-of-Code-odin)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="20"></sub> [The Song of Ducks and Dragons 2025](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" height="20"></sub> [The Entertainment Hub](https://github.com/Cheshulko/The-Entertainment-Hub-ml)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height="20"></sub> [Echoes of Enigmatus](https://github.com/Cheshulko/Echoes-of-Enigmatus-hs)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" height="20"></sub> [The Kingdom of Algorithmia 2024](https://github.com/Cheshulko/The-Kingdom-of-Algorithmia-2024-hs)
-* <sub><img src="https://everybody.codes/favicon.ico" height="20"></sub> [GridOS](https://github.com/Cheshulko/GridOS)
+* <sub><img src="https://odin-lang.org/favicon.svg" width="20" height="20"></sub> [Melody Made of Code](https://github.com/Cheshulko/Melody-Made-of-Code-odin)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="20" height="20"></sub> [The Song of Ducks and Dragons 2025](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" width="20" height="20"></sub> [The Entertainment Hub](https://github.com/Cheshulko/The-Entertainment-Hub-ml)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="20" height="20"></sub> [Echoes of Enigmatus](https://github.com/Cheshulko/Echoes-of-Enigmatus-hs)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="20" height="20"></sub> [The Kingdom of Algorithmia 2024](https://github.com/Cheshulko/The-Kingdom-of-Algorithmia-2024-hs)
+* <sub><img src="https://everybody.codes/favicon.ico" width="20" height="20"></sub> [GridOS](https://github.com/Cheshulko/GridOS)
 
 ## Advent of Code
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="20"></sub> [Advent of Code 2025](https://github.com/Cheshulko/Advent-of-code-2025-cpp)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20"></sub> [Advent of Code 2024](https://github.com/Cheshulko/Advent-of-code-2024-py)
-* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="20"></sub> [Advent of Code 2023](https://github.com/Cheshulko/Advent-of-code-2023-rs)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20" height="20"></sub> [Advent of Code 2025](https://github.com/Cheshulko/Advent-of-code-2025-cpp)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20"></sub> [Advent of Code 2024](https://github.com/Cheshulko/Advent-of-code-2024-py)
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="20" height="20"></sub> [Advent of Code 2023](https://github.com/Cheshulko/Advent-of-code-2023-rs)
 
 ## Projects
 * [Shellust](https://github.com/Cheshulko/Shellust-rs) — A small interactive shell written from scratch in Rust.
