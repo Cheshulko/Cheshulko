@@ -1,5 +1,4 @@
-## 👋
-
+# 👋
 ## Everybody Codes
 * <sub><img src="https://odin-lang.org/favicon.svg" height="20"></sub> [Melody Made of Code](https://github.com/Cheshulko/Melody-Made-of-Code-odin)
 * <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="20"></sub> [The Song of Ducks and Dragons 2025](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
