@@ -1,5 +1,6 @@
 # 👋
 ## Everybody Codes
+* <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="20" height="20"></sub> [The Digital Atelier](https://github.com/Cheshulko/The-Digital-Atelier-dart)
 * <sub><img src="https://odin-lang.org/favicon.svg" width="20" height="20"></sub> [Melody Made of Code](https://github.com/Cheshulko/Melody-Made-of-Code-odin)
 * <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" width="20" height="20"></sub> [The Song of Ducks and Dragons 2025](https://github.com/Cheshulko/The-Song-of-Ducks-and-Dragons-2025-zig)
 * <sub><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ocaml/ocaml-original.svg" width="20" height="20"></sub> [The Entertainment Hub](https://github.com/Cheshulko/The-Entertainment-Hub-ml)
